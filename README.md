@@ -8,3 +8,4 @@ Kết hợp ResNet và LSTM để dự đoán giá Close(T+1), trong đó ResNet
 Input: là một chuỗi giá đóng cửa (Close) trong 10 ngày gần nhất.
 
 Output: là T+11
+![Model Overview](image/model.png)
